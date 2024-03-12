@@ -1,2 +1,7 @@
-chapter1-the-basics.txt
-chapter2-writing-in-markua.txt
+Preface.md
+IntroductiontoAI.md
+AIUSeCases.md
+FineTuning.md
+ChatBots.md
+RAG.md
+DiffusionModels.md
